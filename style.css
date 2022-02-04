@@ -1,0 +1,32 @@
+#box1 {
+    background-color: red;
+    width: 1280px;
+    height: 50px;
+    margin: 5px;
+}
+#box2 {
+    background-color: green;
+    width: 1280px;
+    height: 50px;
+    margin: 5px;
+}
+#box3 {
+    background-color: lightskyblue;
+    width: 640px;
+    height: 380px;
+    margin: 5px;
+}
+#box4 {
+    background-color: lime;
+    width: 640px;
+    height: 380px;
+    margin: 5px;
+}
+.box34 {
+    display: flex;
+    flex-direction: row;
+}
+.box12 {
+    display: flex;
+    flex-direction: column;
+}
